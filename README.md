@@ -12,4 +12,4 @@ Sample Code
               callback,
               {version:"2.0"},
 		      accessToken
-    );//if you don't specify the version 2.0 will be the default
+    );//if you don't specify the version , 2.0 will be the default value
